@@ -14,3 +14,8 @@
 
 ## 版本回退
 -git reset --hard HEAD^ 回退到上一个版本
+
+##将本地仓库与远程仓库关联
+-git remote add origin https://github.com/Chrismisdiisidisj/GP5.git
+-
+
